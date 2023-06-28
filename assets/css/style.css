@@ -1,0 +1,46 @@
+header {
+
+  background-color: #149950;
+  
+
+}
+
+li {
+  display: inline;
+  float: right;
+  margin-inline: 4px;
+}
+  
+
+footer {
+   
+  background-color: #149950;
+  text-align: center;
+  }
+
+  #head_color {
+    background-color: green;
+    
+  }
+
+  img {
+
+    width: 300px;
+    height: 300px;
+    
+
+  }
+
+  .my_web {
+    text-align: center;
+    background-color: rgb(238, 227, 233);
+    
+  }
+
+  h1 {
+  
+  position: relative;
+  left: 100px
+
+ }
+  
